@@ -1,0 +1,104 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Los Angeles Lakers",
+      "city": "Los Angeles",
+      "arena": "Crypto.com Arena",
+      "championshipsWon": 17,
+      "foundedYear": 1947,
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Lakers.webp",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Golden State Warriors",
+      "city": "San Francisco",
+      "arena": "Chase Center",
+      "championshipsWon": 7,
+      "foundedYear": 1946,
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Warriors.webp",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "Milwaukee Bucks",
+      "city": "Milwaukee",
+      "arena": "Fiserv Forum",
+      "championshipsWon": 2,
+      "foundedYear": 1968,
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Bucks.webp",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "name": "Phoenix Suns",
+      "city": "Phoenix",
+      "arena": "Footprint Center",
+      "championshipsWon": 0,
+      "foundedYear": 1968,
+      "imageUrl": "https://nba.com/suns-logo.png",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "name": "Denver Nuggets",
+      "city": "Denver",
+      "arena": "Ball Arena",
+      "championshipsWon": 1,
+      "foundedYear": 1967,
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Nuggets.webp",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "name": "Philadelphia 76ers",
+      "city": "Philadelphia",
+      "arena": "Wells Fargo Center",
+      "championshipsWon": 3,
+      "foundedYear": 1946,
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/76ers.webp",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "name": "Boston Celtics",
+      "city": "Boston",
+      "arena": "TD Garden",
+      "championshipsWon": 17,
+      "foundedYear": 1946,
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Celtics.webp",
+      "isActive": true
+    },
+    {
+      "id": 8,
+      "name": "Miami Heat",
+      "city": "Miami",
+      "arena": "Kaseya Center",
+      "championshipsWon": 3,
+      "foundedYear": 1988,
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/MiamiHeat.webp",
+      "isActive": true
+    },
+    {
+      "id": 9,
+      "name": "Orlando Magic",
+      "city": "Orlando",
+      "arena": "Amway Center",
+      "championshipsWon": 0,
+      "foundedYear": 1989,
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Magic.webp",
+      "isActive": true
+    },
+    {
+      "id": 10,
+      "name": "Memphis Grizzlies",
+      "city": "Memphis",
+      "arena": "FedExForum",
+      "championshipsWon": 0,
+      "foundedYear": 1995,
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Memphis.webp",
+      "isActive": true
+    }
+  ]
+}
