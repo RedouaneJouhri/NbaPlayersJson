@@ -1,0 +1,184 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "LeBron James",
+      "description": "A four-time NBA champion and one of the greatest players of all time.",
+      "age": 39,
+      "isActive": true,
+      "birthdate": "1984-12-30",
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Lebron.webp",
+      "position": "Forward",
+      "hobbies": ["Reading", "Movies", "Philanthropy"],
+      "team": {
+        "id": 1,
+        "name": "Los Angeles Lakers",
+        "city": "Los Angeles",
+        "arena": "Crypto.com Arena",
+        "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Lakers.webp"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Stephen Curry",
+      "description": "Regarded as the best shooter in NBA history, a two-time MVP.",
+      "age": 35,
+      "isActive": true,
+      "birthdate": "1988-03-14",
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/stephCurry.webp",
+      "position": "Guard",
+      "hobbies": ["Golf", "Cooking", "Video Games"],
+      "team": {
+        "id": 2,
+        "name": "Golden State Warriors",
+        "city": "San Francisco",
+        "arena": "Chase Center",
+        "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Warriors.webp"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Giannis Antetokounmpo",
+      "description": "A dominant two-way player and a former MVP from Greece.",
+      "age": 29,
+      "isActive": true,
+      "birthdate": "1994-12-06",
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Giannis.webp",
+      "position": "Forward",
+      "hobbies": ["Soccer", "Gaming", "Cooking"],
+      "team": {
+        "id": 3,
+        "name": "Milwaukee Bucks",
+        "city": "Milwaukee",
+        "arena": "Fiserv Forum",
+        "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Bucks.webp"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Kevin Durant",
+      "description": "An elite scorer and two-time NBA champion.",
+      "age": 35,
+      "isActive": true,
+      "birthdate": "1988-09-29",
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/KevinDurant.webp",
+      "position": "Forward",
+      "hobbies": ["Music", "Traveling", "Investing"],
+      "team": {
+        "id": 4,
+        "name": "Phoenix Suns",
+        "city": "Phoenix",
+        "arena": "Footprint Center",
+        "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Suns.webp"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Nikola Jokic",
+      "description": "A Serbian center known for his elite passing and two-time MVP status.",
+      "age": 29,
+      "isActive": true,
+      "birthdate": "1995-02-19",
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Jokic.webp",
+      "position": "Center",
+      "hobbies": ["Horse Racing", "Gaming", "Fishing"],
+      "team": {
+        "id": 5,
+        "name": "Denver Nuggets",
+        "city": "Denver",
+        "arena": "Ball Arena",
+        "imageUrl": "https://github.com/RedouaneJouhri/NbaPlayersJson/blob/main/Nuggets.webp"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Joel Embiid",
+      "description": "Reigning MVP and dominant two-way center.",
+      "age": 30,
+      "isActive": true,
+      "birthdate": "1994-03-16",
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/JoelEmbidd.webp",
+      "position": "Center",
+      "hobbies": ["Soccer", "Video Games", "Cooking"],
+      "team": {
+        "id": 6,
+        "name": "Philadelphia 76ers",
+        "city": "Philadelphia",
+        "arena": "Wells Fargo Center",
+        "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/76ers.webp"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Jayson Tatum",
+      "description": "A young superstar forward leading the Celtics.",
+      "age": 26,
+      "isActive": true,
+      "birthdate": "1998-03-03",
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Tatum.webp",
+      "position": "Forward",
+      "hobbies": ["Fashion", "Gaming", "Music"],
+      "team": {
+        "id": 7,
+        "name": "Boston Celtics",
+        "city": "Boston",
+        "arena": "TD Garden",
+        "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Celtics.webp"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Jimmy Butler",
+      "description": "A hard-nosed competitor and leader of the Miami Heat.",
+      "age": 34,
+      "isActive": true,
+      "birthdate": "1989-09-14",
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Jimmy_Butler.webp",
+      "position": "Guard/Forward",
+      "hobbies": ["Music", "Coffee", "Fishing"],
+      "team": {
+        "id": 8,
+        "name": "Miami Heat",
+        "city": "Miami",
+        "arena": "Kaseya Center",
+        "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/MiamiHeat.webp"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Paolo Banchero",
+      "description": "A rising young forward and the 2022 NBA Rookie of the Year.",
+      "age": 21,
+      "isActive": true,
+      "birthdate": "2002-11-12",
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/paolo.webp",
+      "position": "Forward",
+      "hobbies": ["Basketball", "Music", "Fashion"],
+      "team": {
+        "id": 9,
+        "name": "Orlando Magic",
+        "city": "Orlando",
+        "arena": "Amway Center",
+        "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Magic.webp"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Ja Morant",
+      "description": "An explosive young guard with elite athleticism, the 2020 Rookie of the Year and the 2021 Most Improved Player",
+      "age": 24,
+      "isActive": true,
+      "birthdate": "1999-08-10",
+      "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/jaMorant.webp",
+      "position": "Guard",
+      "hobbies": ["Dunking", "Music", "Gaming"],
+      "team": {
+        "id": 10,
+        "name": "Memphis Grizzlies",
+        "city": "Memphis",
+        "arena": "FedExForum",
+        "imageUrl": "https://raw.githubusercontent.com/RedouaneJouhri/NbaPlayersJson/refs/heads/main/Memphis.webp"
+      }
+    }
+  ]
+}
